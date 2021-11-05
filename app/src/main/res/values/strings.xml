@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Stores</string>
+
+    <string name="arg_id" translatable="false">key_id</string>
+
+    <string name="description_img_photo">Imagen de la tienda</string>
+    <string name="description_store_add">Crear tienda</string>
+
+    <string name="dialog_delete_title">Eliminar tienda?</string>
+    <string name="dialog_delete_confirm">Eliminar</string>
+    <string name="dialog_delete_cancel">Cancelar</string>
+    <string name="dialog_options_title">Que desea hacer?</string>
+
+    <string name="edit_store_message_save_success">Tienda agregada correctamente.</string>
+    <string name="edit_store_message_update_success">Tienda actualizada</string>
+    <string name="edit_store_message_invalid">Revise los campos requeridos</string>
+    <string name="edit_store_title_edit">Editar tienda</string>
+    <string name="edit_store_title_add">Crear tienda</string>
+
+    <string name="helper_required">Requerido</string>
+
+    <string name="hint_name">Nombre de la tienda</string>
+    <string name="hint_phone">Celular</string>
+    <string name="hint_website">Url del sitio web</string>
+    <string name="hint_photo_url">Url de la imagen</string>
+
+    <string name="menu_save">Save</string>
+
+    <string name="option_item_call">Llamar</string>
+    <string name="option_item_website">Ir al sitio web</string>
+    <string name="main_error_get">Error al consultar datos</string>
+    <string name="main_error_insert">Error al insertar datos</string>
+    <string name="main_error_update">Error al actualizar datos</string>
+    <string name="main_error_delete">Error al eliminar datos</string>
+    <string name="main_error_unknown">Error desconocido</string>
+</resources>
